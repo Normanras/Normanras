@@ -2,7 +2,7 @@
 
 #
 
-I am teaching myself to code, while raising money for good. You can find me on <img src="https://i.imgur.com/Mch0t11.png" alt="LinkedIn" width="20px"></a>
+I am teaching myself to code. You can find me on <img src="https://i.imgur.com/Mch0t11.png" alt="LinkedIn" width="20px"></a>
 #
 
 ## Languages
