@@ -1,11 +1,8 @@
 <p style="text-align: center;font: 300 20px Helvetica,Helvetica,sans-serif" align="center" > Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
-  <img width="600" height="300" src="https://i.imgur.com/FCXmGx2.png">
-</p>
 
 #
 
-I am teaching myself to code, while raising money for good. You can find me on <a href="https://twitter.com/NormRasmussen"> <img src="https://i.imgur.com/7WIhMJ6.png" alt="Twitter" width="20px"></a> or on <a href="https://www.linkedin.com/in/normrasmussen/"> <img src="https://i.imgur.com/Mch0t11.png" alt="LinkedIn" width="20px"></a>
+I am teaching myself to code, while raising money for good. You can find me on <img src="https://i.imgur.com/Mch0t11.png" alt="LinkedIn" width="20px"></a>
 #
 
 ## Languages
