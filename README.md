@@ -1,9 +1,4 @@
-<p style="text-align: center;font: 300 20px Helvetica,Helvetica,sans-serif" align="center" > Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-#
-
-I am teaching myself to code. You can find me on <img src="https://i.imgur.com/Mch0t11.png" alt="LinkedIn" width="20px"></a>
-#
+Self-taught imposter syndrome
 
 ## Languages
 
@@ -18,17 +13,3 @@ I am teaching myself to code. You can find me on <img src="https://i.imgur.com/M
 
 <a href="https://github-readme-stats.vercel.app/api?username=Normanras&show_icons=true&theme=dark&layout=compact"><img style="center" width="500px"  src="https://github-readme-stats.vercel.app/api?username=Normanras&show_icons=true&theme=dark&layout=compact"/></a>
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Normanras"><img style="center" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Normanras"></a>
-#
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...text based adventure game
-- 🌱 I’m currently learning ... Python & Swift
-- 👯 I’m looking to collaborate on Open-Source Instruments 
-- 🤔 I’m looking for help with Landing my first proramming gig
-- 💬 Ask me about Home Brewing
-- 📫 How to reach me: LinkedIn or Twitter
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once had a flesh eating parasite on my finger.
--->
-#
-End Rant.
